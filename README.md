@@ -32,7 +32,7 @@ Bike products were identified using the product category hierarchy.
 
 ### Entity Relationship Diagram
 
-![Data Model](images/data_model.png)
+![Data Model](images_data_model.png)
 
 ## Data Preparation
 
