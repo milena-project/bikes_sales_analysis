@@ -84,9 +84,21 @@ The analysis was structured into five areas:
 
 ## Dashboard Overview
 
-This dashboard provides a high-level view of bike sales performance, highlighting key revenue metrics, product performance, and customer distribution.
+This dashboard presents overall store performance, including total revenue, average order value, and number of orders, with a breakdown of bike vs. non-bike customers and top products by category.
 
 ![Dashboard Overview](images_overview.png)
+
+## Dashboard Sales analysis
+
+This dashboard analyzes product performance by showing top products by revenue and quantity, along with a price vs. quantity comparison to identify key revenue drivers and product segments.
+
+![Dashboard Overview](images_sales_analysis.png)
+
+## Dashboard Customer, Region & Discount Analysis 
+
+This dashboard highlights top customers, revenue distribution across regions, and the impact of discounts on revenue and profitability.
+
+![Dashboard Overview](images_customer_region_discount_analysis.png)
 
 ## Tools
 
