@@ -27,8 +27,12 @@ The dataset follows a relational structure:
 
 Customer → SalesOrderHeader → SalesOrderDetail → Product
 
-Products are organized into hierarchical categories.
+Products are organized into hierarchical categories.  
 Bike products were identified using the product category hierarchy.
+
+### Entity Relationship Diagram
+
+![Data Model](images/data_model.png)
 
 ## Data Preparation
 
